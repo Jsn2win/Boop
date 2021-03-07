@@ -1,0 +1,12 @@
+[submodule "Boop/System/"]
+	path = Boop/System/
+	url = git@github.com:Jsn2win/Boop.git
+[submodule "Boop/System/Models/"]
+	path = Boop/System/Models/
+	url = git@github.com:Jsn2win/Boop.git
+[submodule "Boop/Editor/Themes/"]
+	path = Boop/Editor/Themes/
+	url = git@github.com:Jsn2win/Boop.git
+[submodule "Boop/BoopTests/local"]
+	path = Boop/BoopTests/local
+	url = git@github.com:Jsn2win/Boop.git
